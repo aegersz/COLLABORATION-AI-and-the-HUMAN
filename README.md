@@ -9,7 +9,9 @@ It doesn’t steal jobs—it **reshapes them**, streamlines them, and in many ca
 
 We’re not building robots to take over.  
 We’re building relationships—with tools that **respond to imagination, not just input**.  
-This isn’t Google 2.0.  
+
+This isn’t Google 2.0 !
+
 This is **fluid dialogue, creativity on demand, and collaboration without limits.**
 
 ---

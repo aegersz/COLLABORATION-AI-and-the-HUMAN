@@ -1,4 +1,5 @@
 # README.md
+this file is also a collaborative fusion of AI and myself, in "our" words:
 
 # COLLABORATION: The Nexus Between Humans and Artificial Intelligence  
 *A Manifesto for the Human-AI Alliance*
